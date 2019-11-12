@@ -15,7 +15,7 @@ var firebaseConfig = {
     appId:appId,
     measurementId:measurementId
   };
-  //will need to re commit the config details with new information
+  //further firebase config required
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
   //firebase.analytics();
